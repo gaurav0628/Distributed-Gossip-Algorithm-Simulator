@@ -1,0 +1,12 @@
+{application,project2,
+             [{applications,[kernel,stdlib,elixir,logger]},
+              {description,"project2"},
+              {modules,['Elixir.GossipSimulator',
+                        'Elixir.GossipSimulator.GossipAlgorithmNode',
+                        'Elixir.GossipSimulator.NodeCreator',
+                        'Elixir.GossipSimulator.PushSumNode',
+                        'Elixir.GossipSimulator.Register',
+                        'Elixir.GossipSimulator.Simulator']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {mod,{'Elixir.GossipSimulator',[]}}]}.
