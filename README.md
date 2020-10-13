@@ -1,7 +1,7 @@
 # Distributed-Gossip-Algorithm-Simulator
 A distributed application that exhibits Gossip and PushSum Algorithm for different topologies.
 
-**PROBLEM STATEMENT :
+**PROBLEM STATEMENT :**
 
 As described in class Gossip type algorithms can be used both for group communication and for aggregate computation. The goal of this project is to
 determine the convergence of such algorithms through a simulator based on actors written in Elixir. Since actors in Elixir are fully asynchronous, the particular type of Gossip implemented is the so-called Asynchronous Gossip. Gossip Algorithm for information propagation: The Gossip algorithm involves the
